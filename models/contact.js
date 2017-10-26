@@ -1,5 +1,3 @@
-'use strict'
-
 module.exports = class Contact {
     constructor(first_name, last_name, email, bday, tel_nr, notes) {
         this.first_name = first_name;
